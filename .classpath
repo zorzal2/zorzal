@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="binTest" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.5.0_22"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.jdt.core.classpath.j2ee-1.4"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.jdt.core.classpath.wsi-1.0"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.jdt.aop.core.classpath.AOP_14_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.1.jar" sourcepath="C:/Users/Leo/.m2/repository/org/zenframework/z8/dependencies/commons/commons-lang-2.1/2.0/commons-lang-2.1-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/converter.jar"/>
+	<classpathentry kind="lib" path="lib/displaytag-1.1.jar" sourcepath="C:/Users/Leo/.m2/repository/displaytag/displaytag/1.1/displaytag-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/displaytag-export-poi-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/displaytag-portlet-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/struts.jar" sourcepath="C:/Users/Leo/.m2/repository/struts/struts/1.2.9/struts-1.2.9-sources.jar"/>
+	<classpathentry kind="lib" path="lib/struts-el.jar"/>
+	<classpathentry kind="lib" path="lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1-beta-5.jar"/>
+	<classpathentry kind="lib" path="lib/jstl-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/isorelax.jar"/>
+	<classpathentry kind="lib" path="lib/msv.jar"/>
+	<classpathentry kind="lib" path="lib/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="lib/xsdlib.jar"/>
+	<classpathentry kind="lib" path="lib/deployer.jar" sourcepath="src"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/struts-menu-2.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-tools-view-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="lib/standard.jar"/>
+	<classpathentry kind="lib" path="lib/ldapbp.jar"/>
+	<classpathentry kind="lib" path="lib/acegi-security-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/acegi-security-tiger-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-attributes-api-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-2.5.1-final-20040804.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/itext-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate3.jar" sourcepath="C:/Users/Leo/.m2/repository/org/hibernate/hibernate/3.1/hibernate-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring.jar"/>
+	<classpathentry kind="lib" path="lib/spring-mock.jar"/>
+	<classpathentry kind="lib" path="lib/spring-modules-0.8-all.jar"/>
+	<classpathentry kind="lib" path="lib/spring-ldap-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/excel_xml_lib.jar"/>
+	<classpathentry kind="lib" path="lib/jbpm-webapp-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jbpm-identity-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jbpm-pragma-3.1.jar" sourcepath="C:/Users/Leo/eclipse-workspace/sistema-fontar/lib/jbpm-jpdl-3.2.10-1-SP3_seam2_hibernate5-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss 4.2 Runtime"/>
+	<classpathentry kind="output" path="bin"/>
+	<referencedentry kind="lib" path="lib/jbpm-3.1.jar" sourcepath="lib/jbpm-jpdl-3.2.10-1-SP3_seam2_hibernate5-sources.jar"/>
+</classpath>
